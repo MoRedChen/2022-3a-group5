@@ -189,6 +189,6 @@ classDiagram
 
 <br>
 
-## Figma劃出第一個使用案例的動態模擬畫面
+## Figma使用案例動態模擬畫面
 [Figma預覽連結](https://www.figma.com/proto/zs1PjkdDDMe9ZzYtN2oMWd/Untitled?node-id=3%3A2&scaling=scale-down&page-id=0%3A1&starting-point-node-id=3%3A2)
 
