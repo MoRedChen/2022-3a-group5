@@ -1,3 +1,4 @@
+## 組長與組員之姓名及任務
 | 職位 | 學號 | 姓名 | 任務 |
 | :---: | :---: | :---: | :---: |
 | **組長** | C109118119 | [王明宇](https://github.com/yu9131) | - |
@@ -6,6 +7,9 @@
 | 組員 | C109118152 | [邱宗翰](https://github.com/muzui1115) | - |
 | 組員 | C109118155 | [謝竣昊](https://github.com/HaoHsieh) | - |
 
+<br>
+
+## 甘特圖
 ```mermaid
 gantt
     title 甘特圖(測試)
@@ -52,9 +56,11 @@ gantt
     程式開發:a5,after a4,50d
     程式測試:a7,after a6,10d
     使用者測試:a9,after a8,5d
-    
 ```
 
+<br>
+
+## PERT/CPM圖
 ```mermaid
 classDiagram
 
@@ -118,6 +124,71 @@ classDiagram
 使用者測試:開始：2022-12-24
 使用者測試:結束：2022-12-28
 使用者測試:需時：5d
-
-
 ```
+
+<br>
+
+## 功能性需求與非功能性需求(至少各三項)
+功能性需求：
+1. note 1
+2. note 2
+3. note 3
+
+非功能性需求：
+1. note 1
+2. note 2
+3. note 3
+
+<br>
+
+## 呈現功能分解圖(functional decomposition diagram, FDD)
+
+
+<br>
+
+## 需求分析的文字描述
+
+
+<br>
+
+## 使用案例圖
+
+
+<br>
+
+## 使用案例說明(三個以上)
+| 使用案例名稱 | 案例1 |
+| :-- | :-- |
+| 行動者 | null |
+| 說明 | null |
+| 完成動作 | null |
+| 替代方法 | null |
+| 先決條件 | null |
+| 後置條件 | null |
+| 假設 | 無 |
+
+| 使用案例名稱 | 案例2 |
+| :-- | :-- |
+| 行動者 | null |
+| 說明 | null |
+| 完成動作 | null |
+| 替代方法 | null |
+| 先決條件 | null |
+| 後置條件 | null |
+| 假設 | 無 |
+
+| 使用案例名稱 | 案例3 |
+| :-- | :-- |
+| 行動者 | null |
+| 說明 | null |
+| 完成動作 | null |
+| 替代方法 | null |
+| 先決條件 | null |
+| 後置條件 | null |
+| 假設 | 無 |
+
+<br>
+
+## Figma劃出第一個使用案例的動態模擬畫面
+[Figma預覽連結](https://www.figma.com/proto/zs1PjkdDDMe9ZzYtN2oMWd/Untitled?node-id=3%3A2&scaling=scale-down&page-id=0%3A1&starting-point-node-id=3%3A2)
+
