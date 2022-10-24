@@ -130,14 +130,14 @@ classDiagram
 
 ## 功能性需求與非功能性需求(至少各三項)
 功能性需求：
-1. note 1
-2. note 2
-3. note 3
+1. 查詢該店存貨量
+2. 查詢附近存貨
+3. 會員可預定商品
 
 非功能性需求：
-1. note 1
-2. note 2
-3. note 3
+1. 使用性(usability)：導入Google Map，較易上手
+2. 維護性(maintainability)：硬體部分占比少，較易維護
+3. 可靠度(reliability)：導入Google Map，較穩定
 
 <br>
 
